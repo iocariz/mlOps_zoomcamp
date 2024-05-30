@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/921951858111058010/8926ef0a28d64da099043880269f5143/artifacts
+end_time: 1717094561421
+entry_point_name: ''
+experiment_id: '921951858111058010'
+lifecycle_stage: active
+run_id: 8926ef0a28d64da099043880269f5143
+run_name: grandiose-crow-579
+run_uuid: 8926ef0a28d64da099043880269f5143
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717094555868
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/921951858111058010/3d267f59b9144d35bf94d8ed2c34d1e3/artifacts
+end_time: 1717094569494
+entry_point_name: ''
+experiment_id: '921951858111058010'
+lifecycle_stage: active
+run_id: 3d267f59b9144d35bf94d8ed2c34d1e3
+run_name: upset-wren-791
+run_uuid: 3d267f59b9144d35bf94d8ed2c34d1e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717094566013
+status: 3
+tags: []
+user_id: codespace

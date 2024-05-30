@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/752936122040123059/391788e72a2d4e6b9301e510415dcf54/artifacts
+end_time: 1717094782615
+entry_point_name: ''
+experiment_id: '752936122040123059'
+lifecycle_stage: active
+run_id: 391788e72a2d4e6b9301e510415dcf54
+run_name: overjoyed-stoat-304
+run_uuid: 391788e72a2d4e6b9301e510415dcf54
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717094773870
+status: 3
+tags: []
+user_id: codespace

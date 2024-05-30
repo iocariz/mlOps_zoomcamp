@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1717094799839
+current_stage: None
+description: ''
+last_updated_timestamp: 1717094799839
+name: green-taxi-randomforest-bestmodel
+run_id: 145f7786685c400c87e3e8ac73f891a0
+run_link: ''
+source: mlflow-artifacts:/752936122040123059/145f7786685c400c87e3e8ac73f891a0/artifacts/model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/752936122040123059/145f7786685c400c87e3e8ac73f891a0/artifacts/model
+user_id: null
+version: 1

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/752936122040123059/145f7786685c400c87e3e8ac73f891a0/artifacts
+end_time: 1717094758983
+entry_point_name: ''
+experiment_id: '752936122040123059'
+lifecycle_stage: active
+run_id: 145f7786685c400c87e3e8ac73f891a0
+run_name: polite-bird-655
+run_uuid: 145f7786685c400c87e3e8ac73f891a0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717094749318
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/752936122040123059/5f23a02b8d784f17b9293628e7b20e54/artifacts
+end_time: 1717094791628
+entry_point_name: ''
+experiment_id: '752936122040123059'
+lifecycle_stage: active
+run_id: 5f23a02b8d784f17b9293628e7b20e54
+run_name: loud-hare-615
+run_uuid: 5f23a02b8d784f17b9293628e7b20e54
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717094782623
+status: 3
+tags: []
+user_id: codespace

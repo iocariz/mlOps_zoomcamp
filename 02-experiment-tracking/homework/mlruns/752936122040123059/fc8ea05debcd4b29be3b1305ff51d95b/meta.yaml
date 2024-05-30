@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/752936122040123059/fc8ea05debcd4b29be3b1305ff51d95b/artifacts
+end_time: 1717094799725
+entry_point_name: ''
+experiment_id: '752936122040123059'
+lifecycle_stage: active
+run_id: fc8ea05debcd4b29be3b1305ff51d95b
+run_name: efficient-shrimp-525
+run_uuid: fc8ea05debcd4b29be3b1305ff51d95b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717094791637
+status: 3
+tags: []
+user_id: codespace

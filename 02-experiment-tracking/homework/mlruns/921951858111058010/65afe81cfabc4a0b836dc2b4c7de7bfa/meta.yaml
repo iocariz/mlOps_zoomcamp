@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/921951858111058010/65afe81cfabc4a0b836dc2b4c7de7bfa/artifacts
+end_time: 1717094573321
+entry_point_name: ''
+experiment_id: '921951858111058010'
+lifecycle_stage: active
+run_id: 65afe81cfabc4a0b836dc2b4c7de7bfa
+run_name: kindly-sponge-757
+run_uuid: 65afe81cfabc4a0b836dc2b4c7de7bfa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717094572334
+status: 3
+tags: []
+user_id: codespace

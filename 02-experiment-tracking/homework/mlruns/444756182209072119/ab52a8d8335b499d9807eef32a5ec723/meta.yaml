@@ -1,0 +1,15 @@
+artifact_uri: /workspaces/mlOps_zoomcamp/02-experiment-tracking/homework/mlruns/444756182209072119/ab52a8d8335b499d9807eef32a5ec723/artifacts
+end_time: 1717092509081
+entry_point_name: ''
+experiment_id: '444756182209072119'
+lifecycle_stage: active
+run_id: ab52a8d8335b499d9807eef32a5ec723
+run_name: beautiful-sow-403
+run_uuid: ab52a8d8335b499d9807eef32a5ec723
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717092491212
+status: 3
+tags: []
+user_id: codespace
